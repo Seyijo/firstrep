@@ -1,0 +1,1 @@
+alert("products on Sale\n"+ "1. Leo mobile \n"+"2. Leo camera \n"+"3. Red Shoes\n"+"4. KP watches \n");
